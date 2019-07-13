@@ -46,13 +46,14 @@ samples, guidance on mobile development, and a full API reference.
 <td>
     <img src="https://github.com/BRKsReginaldo/Flutter-ifood/raw/master/gitassets/animation_2.gif"/>
 </td>
-</td>
+</tr>
 <tr>
 <td colspan="2">Animation 3</td>
-</td>
+</tr>
+<tr>
 <td colspan="2">
     <img src="https://github.com/BRKsReginaldo/Flutter-ifood/raw/master/gitassets/animation_3.gif"/>
 </td>
-</td>
+</tr>
 </tbody>
 </table>
