@@ -32,7 +32,7 @@ samples, guidance on mobile development, and a full API reference.
     <img src="https://github.com/BRKsReginaldo/Flutter-ifood/raw/master/gitassets/highlights_and_categories.jpeg"/>
 </td>
 <td>
-    <img src="https://github.com/BRKsReginaldo/Flutter-ifood/raw/master/gitassets/restaurants.jpeg"/>
+    <img src="https://github.com/BRKsReginaldo/Flutter-ifood/raw/master/gitassets/restaurantss.jpeg"/>
 </td>
 </tr>
 </tbody>
