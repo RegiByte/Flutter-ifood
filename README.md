@@ -35,5 +35,24 @@ samples, guidance on mobile development, and a full API reference.
     <img src="https://github.com/BRKsReginaldo/Flutter-ifood/raw/master/gitassets/restaurantss.jpeg"/>
 </td>
 </tr>
+<tr>
+<td>Animation 1</td>
+<td>Animation 2</td>
+</td>
+<tr>
+<td>
+    <img src="https://github.com/BRKsReginaldo/Flutter-ifood/raw/master/gitassets/animation_1.gif"/>
+</td>
+<td>
+    <img src="https://github.com/BRKsReginaldo/Flutter-ifood/raw/master/gitassets/animation_2.gif"/>
+</td>
+</td>
+<tr>
+<td colspan="2">Animation 3</td>
+</td>
+<td colspan="2">
+    <img src="https://github.com/BRKsReginaldo/Flutter-ifood/raw/master/gitassets/animation_3.gif"/>
+</td>
+</td>
 </tbody>
 </table>
