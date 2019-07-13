@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Restaurantes famosos",
+    "tip": "Todo mundo conhece (e gosta)",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood_capas_famosos_v1_dezembro_2018.jpg"
+  },
+  {
+    "title": "Seleção iFood",
+    "tip": "Recomendados pra sua fome",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood_capas_soifood_v3_fevereiro_2019.jpg"
+  },
+  {
+    "title": "Taxa na faixa",
+    "tip": "A taxa é cortesia pra você",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood_capas_entregagratis_v6_maio_2019.jpg"
+  },
+  {
+    "title": "Pra Retirar",
+    "tip": "Peça e retire no restaurante",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood-capas-retirar.jpg"
+  },
+  {
+    "title": "Promoções perto de você",
+    "tip": "Pra sua fome de desconto",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood_capas_promo_v1_dezembro_2018.jpg"
+  },
+  {
+    "title": "Opções saudáveis",
+    "tip": "Pra comer leve e gostoso",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/discoveries/ifood_saudavel_v4_marco_2019.jpg"
+  }
+]

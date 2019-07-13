@@ -1,0 +1,50 @@
+[
+  {
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_low/discoveries/19C1-lanches-v2.jpg",
+    "name": "Lanches"
+  },
+  {
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_low/discoveries/19C1-pizza.jpg",
+    "name": "Pizza"
+  },
+  {
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_low/discoveries/19C1-japonesa.jpg",
+    "name": "Japonesa"
+  },
+  {
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_low/discoveries/19C1-carnes.jpg",
+    "name": "Carnes"
+  },
+  {
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_low/discoveries/19C1-acai.jpg",
+    "name": "Açaí"
+  },
+  {
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_low/discoveries/19C1-cafeteria.jpg",
+    "name": "Cafeterias"
+  },
+  {
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_low/discoveries/19C1-doces-e-bolos.jpg",
+    "name": "Doces & Bolos"
+  },
+  {
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_low/discoveries/19C1-salgados.jpg",
+    "name": "Salgados"
+  },
+  {
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_low/discoveries/19C1-bebidas.jpg",
+    "name": "Bebidas"
+  },
+  {
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_low/discoveries/19C1-saudavel-v2.jpg",
+    "name": "Saudável"
+  },
+  {
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_low/discoveries/19C1-brasileira-v2.jpg",
+    "name": "Brasileira"
+  },
+  {
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_low/discoveries/19C1-comida-rapida.jpg",
+    "name": "Cozinha Rápida"
+  }
+]

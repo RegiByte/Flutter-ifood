@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Spoleto Cascavel",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201810311725_156aad44-d4d0-4058-8393-4b97e2317d37.png",
+    "rating": "4.5",
+    "foodType": "Italiana",
+    "distance": "0,6 km",
+    "deliveryTime": "35-45 min",
+    "deliveryPrice": "Entrega R$ 5.90"
+  },
+  {
+    "name": "Oriental Light",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/fb6fe86f-7f5e-4f4d-a074-9d119b03a0dc/201906241225_wDe9_i.jpg",
+    "rating": "Novo!",
+    "foodType": "Saudável",
+    "distance": "0,4 km",
+    "deliveryTime": "45-55 min",
+    "deliveryPrice": "Entrega R$ 6.00"
+  },
+  {
+    "name": "Santo Grau Bebidas",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201902091123_f042d49a-92b1-489c-98c5-1e72f30538b4.jpg",
+    "rating": "4.9",
+    "foodType": "Bebidas",
+    "distance": "0,8 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Entrega Grátis"
+  },
+  {
+    "name": "Paladare",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201906261754_22d601f8-7f8e-4850-acd7-eb8cf785376c.png",
+    "rating": "Novo!",
+    "foodType": "Italiana",
+    "distance": "0,5 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Entrega R$ 7.00"
+  },
+  {
+    "name": "Sodiê - Cascavel 1",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201907091135_0875ceb0-0bc7-4cea-b12e-8b48258ae568.jpg",
+    "rating": "Novo!",
+    "foodType": "Doces & Bolos",
+    "distance": "0,7 km",
+    "deliveryTime": "55-65 min",
+    "deliveryPrice": "Entrega R$ 10.00"
+  },
+  {
+    "name": "Bubble Mix Tea Cascavel",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201903161100_68d495a7-23d7-492f-b27c-feadb866bda0.jpg",
+    "rating": "4.9",
+    "foodType": "Bebidas",
+    "distance": "0,7 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Entrega R$ 10.00"
+  },
+  {
+    "name": "Cafe Chiarini",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201904241853_62eb6a2c-e3e3-4df7-96c5-ddc5f62e75e3.jpg",
+    "rating": "4.8",
+    "foodType": "Pastel",
+    "distance": "2,3 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Entrega R$ 8.00"
+  },
+  {
+    "name": "Bob's Shopping Jl Cascavel",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201904251106_3648a28a-967f-496a-a17f-c3ec57e2b283.png",
+    "rating": "4.7",
+    "foodType": "Lanches",
+    "distance": "0,5 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Entrega R$ 7.00"
+  },
+  {
+    "name": "Subway - Centro",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/b6333c34-5a68-45a1-b104-9bfe2af55c69/201904011511_IzSe_s.png",
+    "rating": "4.7",
+    "foodType": "Lanches",
+    "distance": "1,4 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Entrega R$ 9.00"
+  },
+  {
+    "name": "Dinathura",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201806271016_2fa8b2a0-b680-4d4b-a6f2-d8325fa7e126.jpg",
+    "rating": "4.6",
+    "foodType": "Saudável",
+    "distance": "0,6 km",
+    "deliveryTime": "35-45 min",
+    "deliveryPrice": "Entrega Grátis"
+  },
+  {
+    "name": "Galo Bebidas",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/1555607e-49d1-4971-9e9c-3cd60a23b388/201905012006_Y3gf_i.jpg",
+    "rating": "4.6",
+    "foodType": "Bebidas",
+    "distance": "2,6 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Entrega R$ 10.00"
+  },
+  {
+    "name": "Fiapo da Manga",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/cbc60ce3-4c6c-4ebf-8707-2e525fa5a563/201905231752_SCmP_i.png",
+    "rating": "4.6",
+    "foodType": "Brasileira",
+    "distance": "0,7 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Entrega R$ 5.00"
+  },
+  {
+    "name": "Portato - Italian Fast Food",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/0203fed3-3629-4ceb-93ed-70bcb12f4d10/201812030811_logop.png",
+    "rating": "4.5",
+    "foodType": "Italiana",
+    "distance": "0,5 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Entrega R$ 10.00"
+  },
+  {
+    "name": "Ki Sabor Marmitaria",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/42922bf4-19e8-4d6a-b416-9504ca6b6fa7/201906200934_1lPK_i.jpg",
+    "rating": "4.5",
+    "foodType": "Marmita",
+    "distance": "4,3 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Entrega Grátis"
+  },
+  {
+    "name": "MEGA ESFIHA",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/e719afeb-4ff7-4147-8ba7-130f802e8ad6/201903182001_image.png",
+    "rating": "4.5",
+    "foodType": "Pizza",
+    "distance": "1,0 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Entrega R$ 5.00"
+  },
+  {
+    "name": "Mini Coxinhas Cascavel",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/0c1920ea-dac5-4fa4-ad15-df6c7aedcadd/201810302112_minic.png",
+    "rating": "4.5",
+    "foodType": "Salgados",
+    "distance": "2,9 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Entrega R$ 6.90"
+  },
+  {
+    "name": "Miyagi Culinária Japonesa e Brasileira",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/050d8872-29b7-4f1a-97b0-7fdc47c1a6ee/201907022053_FWTe_i.jpg",
+    "rating": "4.4",
+    "foodType": "Japonesa",
+    "distance": "1,1 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Entrega Grátis"
+  },
+  {
+    "name": "Bonsai",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201803291220_659d6a67-c0f1-487e-bedd-cac529aa9373.jpg",
+    "rating": "4.4",
+    "foodType": "Japonesa",
+    "distance": "0,4 km",
+    "deliveryTime": "80-90 min",
+    "deliveryPrice": "Entrega R$ 10.00"
+  },
+  {
+    "name": "The Walkies Gastropub",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/72204337-9125-4c07-b112-79783842e3dc/201903131229_image.png",
+    "rating": "4.3",
+    "foodType": "Brasileira",
+    "distance": "0,5 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Entrega R$ 7.00"
+  },
+  {
+    "name": "Raum Bier Restaurante e Choperia",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201808181456_5815e890-2686-41ff-b283-21d2f9847395.png",
+    "rating": "4.3",
+    "foodType": "Brasileira",
+    "distance": "2,9 km",
+    "deliveryTime": "65-75 min",
+    "deliveryPrice": "Entrega R$ 5.00"
+  },
+  {
+    "name": "Arabi’s Esfiharia",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/8bb4af8b-569b-4519-9079-03aa34bd7a92/201807252127_images.png",
+    "rating": "4.2",
+    "foodType": "Árabe",
+    "distance": "2,9 km",
+    "deliveryTime": "70-80 min",
+    "deliveryPrice": "Entrega R$ 8.00"
+  },
+  {
+    "name": "Marmita Buscape",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/41dca0ce-a836-4d14-92af-1a9a53a68b83/201905250927_WI20_i.png",
+    "rating": "3.7",
+    "foodType": "Brasileira",
+    "distance": "2,7 km",
+    "deliveryTime": "55-65 min",
+    "deliveryPrice": "Entrega R$ 3.00"
+  },
+  {
+    "name": "Mais Acaí Cascavel JL Shopping",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201803061112_53d9d261-4b1d-4f66-91e0-2a2f04111a46.jpg",
+    "rating": "3.6",
+    "foodType": "Saudável",
+    "distance": "0,6 km",
+    "deliveryTime": "70-80 min",
+    "deliveryPrice": "Entrega R$ 5.00"
+  },
+  {
+    "name": "Delta Marmitaria",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201904101259_1775b2d7-d494-424d-8ad6-ff41ed88689e.jpg",
+    "rating": "3.5",
+    "foodType": "Marmita",
+    "distance": "5,5 km",
+    "deliveryTime": "80-90 min",
+    "deliveryPrice": "Entrega R$ 13.00"
+  },
+  {
+    "name": "Croasonho - Cascavel",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/0257dc63-58d5-4189-83c5-ed91d2614cd8/201906241139_xpz0_i.png",
+    "rating": "4.6",
+    "foodType": "Lanches",
+    "distance": "1,9 km",
+    "deliveryTime": "85-95 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Old Dog - Lanchão & Cia",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/old_olddo_ueri05.png",
+    "rating": "4.6",
+    "foodType": "Lanches",
+    "distance": "0,8 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Restaurante Água Doce Cachaçaria",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201804021654_87e180d4-ff27-4e91-b0d1-a9af53b33218.jpg",
+    "rating": "4.6",
+    "foodType": "Brasileira",
+    "distance": "1,2 km",
+    "deliveryTime": "90-100 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Açaí Concept Cascavel",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/logo_ACAIC_CAVEL.jpg",
+    "rating": "4.6",
+    "foodType": "Açaí",
+    "distance": "2,7 km",
+    "deliveryTime": "78-88 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Frango Americano - Cascavel",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201803211017_0ec7d095-bbd2-401d-81f8-31bf1c17149d.png",
+    "rating": "4.4",
+    "foodType": "Carnes",
+    "distance": "0,0 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Pizza Hut Cascavel",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201801251022_7baa37a1-e88d-423b-8a70-15a77c572c59.png",
+    "rating": "4.4",
+    "foodType": "Pizza",
+    "distance": "0,6 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Panelinha Marmitaria",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/069fb487-1674-45d9-89f7-c154e5d3a5fb/201907011133_Kux8_i.png",
+    "rating": "Novo!",
+    "foodType": "Marmita",
+    "distance": "3,8 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Bera Lanches",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201806091120_b4eb818b-6def-4a79-b7ba-c86be4509084.jpg",
+    "rating": "Novo!",
+    "foodType": "Lanches",
+    "distance": "0,4 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Acai Dona Violeta",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201901261920_c09c293b-a1f6-45d1-99ef-abd6a02f7d1e.jpg",
+    "rating": "5.0",
+    "foodType": "Açaí",
+    "distance": "1,6 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Marlene Porções",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/c05cf397-2cb8-48e8-af80-ad49ec605d23/201903211437_55505.jpg",
+    "rating": "Novo!",
+    "foodType": "Lanches",
+    "distance": "1,6 km",
+    "deliveryTime": "40-50 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Like Bar",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201902220942_79db5517-6ff9-46fe-bc6a-7ce67403a5a2.jpg",
+    "rating": "Novo!",
+    "foodType": "Brasileira",
+    "distance": "2,8 km",
+    "deliveryTime": "45-55 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Cantinho da Araci",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201904111745_78c93829-da2a-41a6-8de7-ddd92b80667c.png",
+    "rating": "Novo!",
+    "foodType": "Lanches",
+    "distance": "3,7 km",
+    "deliveryTime": "45-55 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Ideal Lanches",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/2832d041-23b8-4496-a39f-39a66c0d84b5/201905031627_ZO1K_i.jpg",
+    "rating": "5.0",
+    "foodType": "Lanches",
+    "distance": "6,0 km",
+    "deliveryTime": "75-85 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Murillus Vegan",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201905161906_b9fd965d-6d35-433b-8ec0-df8ad6079955.jpg",
+    "rating": "Novo!",
+    "foodType": "Saudável",
+    "distance": "2,4 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Rei do Acaraje",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/2832235e-801c-4b9a-855a-afed147e038b/201907121536_I5a6_i.jpg",
+    "rating": "Novo!",
+    "foodType": "Hambúrguer",
+    "distance": "4,7 km",
+    "deliveryTime": "70-80 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Schornstein Kneipe",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/4861e371-6826-4f0f-8a34-937bcd399f75/201905301632_b9PI_i.png",
+    "rating": "Novo!",
+    "foodType": "Alemã",
+    "distance": "4,7 km",
+    "deliveryTime": "80-90 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Donna Pizza",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/fcaddf12-5354-4f3e-b183-6bcfcb59885f/201905281753_LwY0_.jpeg",
+    "rating": "Novo!",
+    "foodType": "Pizza",
+    "distance": "0,3 km",
+    "deliveryTime": "40-50 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Obah Burger",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/61b8561c-3539-40f3-a212-231777c3b0f8/201906261648_snH4_i.jpg",
+    "rating": "Novo!",
+    "foodType": "Lanches",
+    "distance": "1,8 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Café Kiwi",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201906281049_162dfb7c-b9b8-4c35-b7fa-2053e1809b03.jpg",
+    "rating": "Novo!",
+    "foodType": "Cafeteria",
+    "distance": "1,7 km",
+    "deliveryTime": "30-40 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Cachopa Lanches",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/6104f2d3-96c0-4e6f-b46e-9b43ebcb5839/201906242316_4iZg_i.jpg",
+    "rating": "Novo!",
+    "foodType": "Lanches",
+    "distance": "0,3 km",
+    "deliveryTime": "45-55 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Maionese Lanches",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201906182150_0815719e-4cd1-4cc8-8ebe-4dfe35511a42.png",
+    "rating": "Novo!",
+    "foodType": "Lanches",
+    "distance": "3,1 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Cantinho Caseiro",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/f522a33e-f484-444b-8527-dbab2827b306/201906171954_fHBw_.jpeg",
+    "rating": "Novo!",
+    "foodType": "Brasileira",
+    "distance": "1,7 km",
+    "deliveryTime": "44-54 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Cao Veio Burguer",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/f8740839-2517-4bff-bc2f-2705fffc20bd/201906190927_S41M_i.png",
+    "rating": "Novo!",
+    "foodType": "Lanches",
+    "distance": "0,1 km",
+    "deliveryTime": "75-85 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "X-zoiao Delivery",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/b1748823-6cb9-4d05-b609-da552c8a50c7/201906252059_QLzv_i.jpg",
+    "rating": "Novo!",
+    "foodType": "Lanches",
+    "distance": "3,4 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Dogster Hot Dog Company",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/7ed7a94c-ee13-4ad3-8665-41db25bfe1d3/201906252039_4sal_i.jpg",
+    "rating": "Novo!",
+    "foodType": "Lanches",
+    "distance": "1,4 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Chazy Burguer",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/d6e1a53b-2939-4649-871f-217c8128fffc/201906270815_DF3l_.jpeg",
+    "rating": "Novo!",
+    "foodType": "Lanches",
+    "distance": "1,4 km",
+    "deliveryTime": "55-65 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Executive Burger",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/cc8dc589-20e4-48d6-a461-bd33e6b5d182/201906281449_xee7_i.png",
+    "rating": "Novo!",
+    "foodType": "Lanches",
+    "distance": "1,3 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Frajola Lanches",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201907031322_d1027f23-bdcf-42d2-b201-2bc60f68406f.png",
+    "rating": "Novo!",
+    "foodType": "Lanches",
+    "distance": "0,5 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Maximus Pizzaria",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/5ca1390f-bd10-4bdb-b994-9a7f6d1fcba6/201907091845_WS7G_i.png",
+    "rating": "Novo!",
+    "foodType": "Pizza",
+    "distance": "1,3 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Daly Esfiha",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201907081727_97e2107a-d0c9-46bf-8737-7639a96742d8.png",
+    "rating": "Novo!",
+    "foodType": "Árabe",
+    "distance": "1,1 km",
+    "deliveryTime": "40-50 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Tetri´s",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/ab935d0c-80ed-4d7f-890f-e04a30c4236e/201905251113_hmo6_i.png",
+    "rating": "5.0",
+    "foodType": "Saudável",
+    "distance": "4,3 km",
+    "deliveryTime": "65-75 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "San Bar",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/1f9840b3-da36-4c03-b019-daa5347d18a9/201902251928_logom.jpg",
+    "rating": "4.9",
+    "foodType": "Lanches",
+    "distance": "3,3 km",
+    "deliveryTime": "50-60 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Mercedita Empanadas",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201706021031_36f8f97d-06ea-49e4-91e8-4f33d7185a55.png",
+    "rating": "4.9",
+    "foodType": "Lanches",
+    "distance": "2,2 km",
+    "deliveryTime": "60-70 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Old West Brew Pub",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/5299bbba-203b-4cb4-916d-5c94f54f3133/201810111132_15873.jpg",
+    "rating": "4.9",
+    "foodType": "Lanches",
+    "distance": "1,3 km",
+    "deliveryTime": "45-55 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Bao Story Vegan",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201712141408_3affde59-cbb2-4281-98aa-9190124aed2f.jpg",
+    "rating": "4.8",
+    "foodType": "Vegetariana",
+    "distance": "0,8 km",
+    "deliveryTime": "65-75 min",
+    "deliveryPrice": "Fechado"
+  },
+  {
+    "name": "Comida Quente",
+    "picture": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/c04f2510-79c3-4024-a422-a40c55147215/201905301102_iEil_i.png",
+    "rating": "4.8",
+    "foodType": "Brasileira",
+    "distance": "1,7 km",
+    "deliveryTime": "39-49 min",
+    "deliveryPrice": "Fechado"
+  }
+]
